@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loka9876
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in web devlopment
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
